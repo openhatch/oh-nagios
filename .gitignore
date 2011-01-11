@@ -2,3 +2,4 @@ etc-nagios3/htpasswd.users
 .bash*
 .ssh
 secrets/mailman-password
+secrets/web-password
